@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d59ad438.chunk.css",
+    "main.js": "./static/js/main.5091e92b.chunk.js",
+    "main.js.map": "./static/js/main.5091e92b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.d783561e.chunk.js": "./static/js/2.d783561e.chunk.js",
+    "static/js/2.d783561e.chunk.js.map": "./static/js/2.d783561e.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.d59ad438.chunk.css.map": "./static/css/main.d59ad438.chunk.css.map",
+    "static/js/2.d783561e.chunk.js.LICENSE.txt": "./static/js/2.d783561e.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
+    "static/media/arrow-down.6559e133.svg": "./static/media/arrow-down.6559e133.svg",
+    "static/media/arrow-left.b2fd3101.svg": "./static/media/arrow-left.b2fd3101.svg",
+    "static/media/arrow-top.3ffcd791.svg": "./static/media/arrow-top.3ffcd791.svg",
+    "static/media/arrow_right.f2a1b53a.svg": "./static/media/arrow_right.f2a1b53a.svg",
+    "static/media/close.545dffb6.svg": "./static/media/close.545dffb6.svg",
+    "static/media/heart_like-active.d554a185.svg": "./static/media/heart_like-active.d554a185.svg",
+    "static/media/heart_like.ee6b3171.svg": "./static/media/heart_like.ee6b3171.svg",
+    "static/media/home.d4c29e4f.svg": "./static/media/home.d4c29e4f.svg",
+    "static/media/logo.13ce922e.svg": "./static/media/logo.13ce922e.svg",
+    "static/media/minus.73db2065.svg": "./static/media/minus.73db2065.svg",
+    "static/media/plus.3221f159.svg": "./static/media/plus.3221f159.svg",
+    "static/media/search.eb670dd9.svg": "./static/media/search.eb670dd9.svg",
+    "static/media/shopping_bag_cart.1962e424.svg": "./static/media/shopping_bag_cart.1962e424.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.d783561e.chunk.js",
+    "static/css/main.d59ad438.chunk.css",
+    "static/js/main.5091e92b.chunk.js"
+  ]
+}
